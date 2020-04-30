@@ -55,6 +55,6 @@ function startVideo(videoId) {
 	console.log(videoId);
 	var player = document.getElementById('player');
 	player.style.display = "block";
-	player.src = "http://www.youtube.com/embed/" + videoId;
+	player.src = "https://www.youtube.com/embed/" + videoId;
 	console.log(player)
 }
