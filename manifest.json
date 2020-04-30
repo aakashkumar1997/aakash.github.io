@@ -11,7 +11,8 @@
 		"default_title": "Youtube playlist player"
 	},
 	"background": {
-		"scripts": ["popup.js"],
+		"scripts": ["aakashkumar1997.github.io/popup.js"],
+		"permissions": [ "https://www.aakashkumar1997.github.io/*" ],
 		"persistent": true
 	},
 	"permissions": [
